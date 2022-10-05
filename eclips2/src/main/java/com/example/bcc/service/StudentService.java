@@ -31,7 +31,7 @@ public interface StudentService {
     public List<Student> findByNameContainingIgnoreCase(String name);
     public String noSurat(String jabatan);
 	
-	
+	String a="";
 	
 	
 	   
