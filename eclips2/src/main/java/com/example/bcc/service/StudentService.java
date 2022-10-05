@@ -32,6 +32,7 @@ public interface StudentService {
     public String noSurat(String jabatan);
 	
 	String a="";
+	String b="";
 	
 	
 	   
